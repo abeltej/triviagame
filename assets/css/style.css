@@ -1,0 +1,9 @@
+body {
+    background-image: url("../images/B1-background.jpg");
+    color: #cccccc;
+    background-size:cover;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+
+  }
